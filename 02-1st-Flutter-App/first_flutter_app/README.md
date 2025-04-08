@@ -1,6 +1,5 @@
-# first_flutter_app
+# Google Codelab - first_flutter_app
 
-A new Flutter project.
 
 ## Getting Started
 
